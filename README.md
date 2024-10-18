@@ -44,7 +44,7 @@ Visualizations include:
 1. Clone the repository:
    ```bash
    git clone https://github.com/snehapadgaonkar/Household-energy-consumption-prediction.git
-   cd home-energy-consumption-prediction
+   cd final
 2. Load the Dataset: Ensure you have the dataset in the specified location or update the path in the notebook.
 3. Install the required libraries:
    ```bash
