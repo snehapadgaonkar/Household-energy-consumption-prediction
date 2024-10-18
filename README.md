@@ -36,6 +36,9 @@ Visualizations include:
 - Distribution analysis of energy consumption.
 - Correlation heatmaps and seasonal consumption trends.
 
+**For viewing the profiling of data use the link:** \
+[Household Energy Consumption Profile Report](https://snehapadgaonkar.github.io/Household-energy-consumption-prediction/household_consumption_profile_report.html)
+
 ## Future Scope
 1. **Integration with IoT Devices**: Expand the model to capture real-time data from smart home devices to improve accuracy and optimization of energy use.
 2. **Predictive Maintenance**: Identify patterns that signal potential equipment failures, enabling proactive maintenance to enhance efficiency.
